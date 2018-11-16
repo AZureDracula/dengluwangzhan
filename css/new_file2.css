@@ -1,0 +1,32 @@
+#form2{
+	padding: 0 40px;
+}
+.color{
+	color:#F20D0D  !important;
+}
+.bgcolor{
+	background-color: #F20D0D !important;
+}
+#wrong_zhucezhanghao{
+	font-size: 12px;
+    height: 20px;
+    clear: both;
+    display: none;
+    color: #EF1300;
+    line-height: 20px;
+}
+#yanzhengma_div2{
+	height: 75px;
+}
+#wrong_yzm2{
+	font-size: 12px;
+    height: 20px;
+    clear: both;
+  	display: none;
+  	
+    color: #EF1300;
+    line-height: 20px;
+}
+#zhucezhanghao{
+	height: 72px;
+}
