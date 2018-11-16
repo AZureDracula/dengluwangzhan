@@ -92,8 +92,7 @@ function load(){
       output.style.display="none";
     	break;
  	}
-	output.innerHTML="	姓名："+jsonText.data.name+"	年龄："+jsonText.data.age +"岁	"+"	性别："+ sex +"性      "+"	电话号码："+ jsonText.data.other.phone +"	家庭住址："+jsonText.data.other.address;
-	
+	output.innerHTML="	姓名："+jsonText.data.name+ "<br>"+"	年龄："+jsonText.data.age +"岁	"+ "<br>"+"	性别："+ sex +"性      "+ "<br>"+"	电话号码："+ jsonText.data.other.phone + "<br>"+"	家庭住址："+jsonText.data.other.address;
 	
 	
 	
